@@ -1,0 +1,3 @@
+/Users/wang/workspace/clion/cachelab-handout/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wang/workspace/clion/cachelab-handout/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wang/workspace/clion/cachelab-handout/cmake-build-debug/CMakeFiles/cachelab_handout.dir
